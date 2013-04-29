@@ -1,0 +1,20 @@
+[
+{
+  "modid": "NAM",
+  "name": "Nature and Materials",
+  "description": "More life in nature with added materials and unatural items",
+  "version": "0.0.1",
+  "url": "https://github.com/the1gamerdude/Nature-and-materials-mod",
+  "updateUrl": "",
+  "authorList": [
+    "the1gamerdude"
+  ],
+  "credits": "Pahimar for awesome lets mod series",
+  "logoFile": "http://b5media_b4.s3.amazonaws.com/28/files/2007/11/national-museum-of-natural-history-hall-of-minerals-purple-quartz.jpg",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
